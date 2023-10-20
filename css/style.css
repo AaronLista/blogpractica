@@ -3,3 +3,13 @@ body{
     font-family: 'arial';
     color: #ff3f5f;
 }
+.header{
+    background-color: blue;
+    color: white;
+    text-align: left;
+    font-size: 50px;
+}
+.cabeceraT{
+    font-weight: bold;
+    margin: 10px;
+}
